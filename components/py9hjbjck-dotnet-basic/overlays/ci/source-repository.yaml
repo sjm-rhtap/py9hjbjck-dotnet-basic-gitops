@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: py9hjbjck-dotnet-basic-repository
+spec:
+  url: https://github.com/sjm-rhtap/py9hjbjck-dotnet-basic
